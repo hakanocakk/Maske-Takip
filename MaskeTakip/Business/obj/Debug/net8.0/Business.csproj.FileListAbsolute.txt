@@ -1,0 +1,15 @@
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\bin\Debug\net8.0\Business.deps.json
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\bin\Debug\net8.0\Business.dll
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\bin\Debug\net8.0\Business.pdb
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\bin\Debug\net8.0\Entities.dll
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\bin\Debug\net8.0\Entities.pdb
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.dll
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\refint\Business.dll
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\Business.pdb
+D:\Udemy Visual Studio Örnek Dosyalar\MaskeTakip\Business\obj\Debug\net8.0\ref\Business.dll
